@@ -1,10 +1,22 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Competitions"
+subtitle: "Iterative problem solving under measurable constraints"
 ---
 
-# Title 1 Header
-## Title 2 Header
+This section highlights challenge-based projects where experimentation, ranking, and iteration mattered.
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## What I Emphasize
+
+- starting with a reliable baseline
+- iterating intentionally instead of randomly
+- tracking experiments and results
+- explaining what improved performance
+
+## Recommended Page Structure
+
+For each project in this section, explain:
+
+1. the competition goal and metric
+2. the baseline approach
+3. the experiments you ran
+4. the final score, rank, or lesson learned

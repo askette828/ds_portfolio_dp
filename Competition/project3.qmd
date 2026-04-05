@@ -1,7 +1,7 @@
 ---
-title: "Client Report - [Insert Project Title]"
-subtitle: "Course DS 250"
-author: "[STUDENT NAME]"
+title: "Competition Project 3"
+subtitle: "Replace this with your project title"
+author: "Your Name"
 format:
   html:
     self-contained: true
@@ -10,19 +10,31 @@ format:
     toc: true
     toc-depth: 3
     toc-location: body
-    number-sections: false
-    html-math-method: katex
     code-fold: true
     code-summary: "Show the code"
-    code-overflow: wrap
     code-copy: hover
-    code-tools:
-        source: false
-        toggle: true
-        caption: See code
-execute: 
+execute:
   warning: false
-    
 ---
 
-### Paste in a template
+## Project Summary
+
+Write 2 to 4 sentences describing the competition goal and your best result.
+
+## Competition Objective
+
+What metric, target, or ranking mattered?
+
+## Baseline
+
+Explain the first solution you built before optimization.
+
+## Experiments
+
+- experiment one
+- experiment two
+- experiment three
+
+## Final Result
+
+Share your best score, ranking, or main lesson learned.

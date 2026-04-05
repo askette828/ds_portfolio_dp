@@ -1,1 +1,54 @@
-/* css styles */
+:root {
+  --accent: #0f766e;
+  --accent-dark: #115e59;
+  --surface: #f4f7f8;
+  --text-soft: #4b5563;
+}
+
+body {
+  line-height: 1.65;
+}
+
+.navbar-brand,
+.navbar-title {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.quarto-title-block .title {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.quarto-title-block .subtitle {
+  color: var(--text-soft);
+  max-width: 48rem;
+}
+
+.content h2,
+.content h3 {
+  margin-top: 1.75rem;
+}
+
+.content ul li,
+.content ol li {
+  margin-bottom: 0.35rem;
+}
+
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  color: var(--accent-dark);
+}
+
+.sidebar nav[role="doc-toc"] {
+  background: var(--surface);
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+#quarto-margin-sidebar .toc-active .active {
+  font-weight: 700;
+}

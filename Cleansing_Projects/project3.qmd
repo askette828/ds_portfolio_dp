@@ -1,7 +1,7 @@
 ---
-title: "Client Report - [Insert Project Title]"
-subtitle: "Course DS 250"
-author: "[STUDENT NAME]"
+title: "Data Cleaning Project 3"
+subtitle: "Replace this with your project title"
+author: "Your Name"
 format:
   html:
     self-contained: true
@@ -10,19 +10,38 @@ format:
     toc: true
     toc-depth: 3
     toc-location: body
-    number-sections: false
-    html-math-method: katex
     code-fold: true
     code-summary: "Show the code"
-    code-overflow: wrap
     code-copy: hover
-    code-tools:
-        source: false
-        toggle: true
-        caption: See code
-execute: 
+execute:
   warning: false
-    
 ---
 
-### Paste in a template
+## Project Summary
+
+Write 2 to 4 sentences explaining the problem, the dataset, and the outcome.
+
+## Business or Project Context
+
+- What was the real question?
+- Who cared about the result?
+- Why did the data need cleaning?
+
+## Data Issues
+
+- missing values
+- inconsistent labels
+- duplicate records
+- formatting problems
+
+## Cleaning Approach
+
+Describe the exact steps you used to improve the data.
+
+## Validation
+
+Explain how you checked that the cleaned data was accurate and usable.
+
+## Deliverable
+
+State what analysis, dataset, or report became possible after cleaning.

@@ -1,83 +1,582 @@
 [
   {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "Competitions",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "This section highlights challenge-based projects where experimentation, ranking, and iteration mattered.",
     "crumbs": [
-      "Story Telling"
+      "Competitions",
+      "Overview"
     ]
   },
   {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "objectID": "competition.html#what-i-emphasize",
+    "href": "competition.html#what-i-emphasize",
+    "title": "Competitions",
+    "section": "What I Emphasize",
+    "text": "What I Emphasize\n\nstarting with a reliable baseline\niterating intentionally instead of randomly\ntracking experiments and results\nexplaining what improved performance",
     "crumbs": [
-      "Story Telling"
+      "Competitions",
+      "Overview"
     ]
   },
   {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "objectID": "competition.html#recommended-page-structure",
+    "href": "competition.html#recommended-page-structure",
+    "title": "Competitions",
+    "section": "Recommended Page Structure",
+    "text": "Recommended Page Structure\nFor each project in this section, explain:\n\nthe competition goal and metric\nthe baseline approach\nthe experiments you ran\nthe final score, rank, or lesson learned",
     "crumbs": [
-      "Story Telling",
+      "Competitions",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Data Cleaning Project 3",
+    "section": "",
+    "text": "Write 2 to 4 sentences explaining the problem, the dataset, and the outcome.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html#project-summary",
+    "href": "Cleansing_Projects/project3.html#project-summary",
+    "title": "Data Cleaning Project 3",
+    "section": "",
+    "text": "Write 2 to 4 sentences explaining the problem, the dataset, and the outcome.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html#business-or-project-context",
+    "href": "Cleansing_Projects/project3.html#business-or-project-context",
+    "title": "Data Cleaning Project 3",
+    "section": "Business or Project Context",
+    "text": "Business or Project Context\n\nWhat was the real question?\nWho cared about the result?\nWhy did the data need cleaning?",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html#data-issues",
+    "href": "Cleansing_Projects/project3.html#data-issues",
+    "title": "Data Cleaning Project 3",
+    "section": "Data Issues",
+    "text": "Data Issues\n\nmissing values\ninconsistent labels\nduplicate records\nformatting problems",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html#cleaning-approach",
+    "href": "Cleansing_Projects/project3.html#cleaning-approach",
+    "title": "Data Cleaning Project 3",
+    "section": "Cleaning Approach",
+    "text": "Cleaning Approach\nDescribe the exact steps you used to improve the data.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html#validation",
+    "href": "Cleansing_Projects/project3.html#validation",
+    "title": "Data Cleaning Project 3",
+    "section": "Validation",
+    "text": "Validation\nExplain how you checked that the cleaned data was accurate and usable.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html#deliverable",
+    "href": "Cleansing_Projects/project3.html#deliverable",
+    "title": "Data Cleaning Project 3",
+    "section": "Deliverable",
+    "text": "Deliverable\nState what analysis, dataset, or report became possible after cleaning.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Data Cleaning Project 1",
+    "section": "",
+    "text": "Write 2 to 4 sentences explaining the problem, the dataset, and the outcome.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html#project-summary",
+    "href": "Cleansing_Projects/project1.html#project-summary",
+    "title": "Data Cleaning Project 1",
+    "section": "",
+    "text": "Write 2 to 4 sentences explaining the problem, the dataset, and the outcome.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html#business-or-project-context",
+    "href": "Cleansing_Projects/project1.html#business-or-project-context",
+    "title": "Data Cleaning Project 1",
+    "section": "Business or Project Context",
+    "text": "Business or Project Context\n\nWhat was the real question?\nWho cared about the result?\nWhy did the data need cleaning?",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html#data-issues",
+    "href": "Cleansing_Projects/project1.html#data-issues",
+    "title": "Data Cleaning Project 1",
+    "section": "Data Issues",
+    "text": "Data Issues\n\nmissing values\ninconsistent labels\nduplicate records\nformatting problems",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html#cleaning-approach",
+    "href": "Cleansing_Projects/project1.html#cleaning-approach",
+    "title": "Data Cleaning Project 1",
+    "section": "Cleaning Approach",
+    "text": "Cleaning Approach\nDescribe the exact steps you used to improve the data.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html#validation",
+    "href": "Cleansing_Projects/project1.html#validation",
+    "title": "Data Cleaning Project 1",
+    "section": "Validation",
+    "text": "Validation\nExplain how you checked that the cleaned data was accurate and usable.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html#deliverable",
+    "href": "Cleansing_Projects/project1.html#deliverable",
+    "title": "Data Cleaning Project 1",
+    "section": "Deliverable",
+    "text": "Deliverable\nState what analysis, dataset, or report became possible after cleaning.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Full Stack Project 1",
+    "section": "",
+    "text": "Write 2 to 4 sentences describing the product, users, and technical scope.",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html#project-summary",
+    "href": "Full_Stack/project1.html#project-summary",
+    "title": "Full Stack Project 1",
+    "section": "",
+    "text": "Write 2 to 4 sentences describing the product, users, and technical scope.",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html#product-goal",
+    "href": "Full_Stack/project1.html#product-goal",
+    "title": "Full Stack Project 1",
+    "section": "Product Goal",
+    "text": "Product Goal\nWhat problem did the app or system solve?",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html#stack",
+    "href": "Full_Stack/project1.html#stack",
+    "title": "Full Stack Project 1",
+    "section": "Stack",
+    "text": "Stack\n\nfrontend\nbackend\ndata layer\ndeployment",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html#key-build-decisions",
+    "href": "Full_Stack/project1.html#key-build-decisions",
+    "title": "Full Stack Project 1",
+    "section": "Key Build Decisions",
+    "text": "Key Build Decisions\nDescribe the most important implementation choices and tradeoffs.",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html#result",
+    "href": "Full_Stack/project1.html#result",
+    "title": "Full Stack Project 1",
+    "section": "Result",
+    "text": "Result\nExplain what the finished system allows users to do.",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Competition Project 2",
+    "section": "",
+    "text": "Write 2 to 4 sentences describing the competition goal and your best result.",
+    "crumbs": [
+      "Competitions",
       "Project 2"
     ]
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "Competition/project2.html#project-summary",
+    "href": "Competition/project2.html#project-summary",
+    "title": "Competition Project 2",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Write 2 to 4 sentences describing the competition goal and your best result.",
+    "crumbs": [
+      "Competitions",
+      "Project 2"
+    ]
   },
   {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "objectID": "Competition/project2.html#competition-objective",
+    "href": "Competition/project2.html#competition-objective",
+    "title": "Competition Project 2",
+    "section": "Competition Objective",
+    "text": "Competition Objective\nWhat metric, target, or ranking mattered?",
+    "crumbs": [
+      "Competitions",
+      "Project 2"
+    ]
   },
   {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "objectID": "Competition/project2.html#baseline",
+    "href": "Competition/project2.html#baseline",
+    "title": "Competition Project 2",
+    "section": "Baseline",
+    "text": "Baseline\nExplain the first solution you built before optimization.",
+    "crumbs": [
+      "Competitions",
+      "Project 2"
+    ]
   },
   {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+    "objectID": "Competition/project2.html#experiments",
+    "href": "Competition/project2.html#experiments",
+    "title": "Competition Project 2",
+    "section": "Experiments",
+    "text": "Experiments\n\nexperiment one\nexperiment two\nexperiment three",
+    "crumbs": [
+      "Competitions",
+      "Project 2"
+    ]
   },
   {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+    "objectID": "Competition/project2.html#final-result",
+    "href": "Competition/project2.html#final-result",
+    "title": "Competition Project 2",
+    "section": "Final Result",
+    "text": "Final Result\nShare your best score, ranking, or main lesson learned.",
+    "crumbs": [
+      "Competitions",
+      "Project 2"
+    ]
   },
   {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Exploration Project 3",
     "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Write 2 to 4 sentences describing the question, the data, and the main insight.",
+    "crumbs": [
+      "Exploration",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#project-summary",
+    "href": "Cleansing_Exploration/project3.html#project-summary",
+    "title": "Exploration Project 3",
+    "section": "",
+    "text": "Write 2 to 4 sentences describing the question, the data, and the main insight.",
+    "crumbs": [
+      "Exploration",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#question",
+    "href": "Cleansing_Exploration/project3.html#question",
+    "title": "Exploration Project 3",
+    "section": "Question",
+    "text": "Question\nState the question or hypothesis that guided the analysis.",
+    "crumbs": [
+      "Exploration",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#data-overview",
+    "href": "Cleansing_Exploration/project3.html#data-overview",
+    "title": "Exploration Project 3",
+    "section": "Data Overview",
+    "text": "Data Overview\nDescribe the source, scale, and important variables.",
+    "crumbs": [
+      "Exploration",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#exploration-process",
+    "href": "Cleansing_Exploration/project3.html#exploration-process",
+    "title": "Exploration Project 3",
+    "section": "Exploration Process",
+    "text": "Exploration Process\nSummarize the charts, summaries, or tests that helped you understand the data.",
+    "crumbs": [
+      "Exploration",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#key-findings",
+    "href": "Cleansing_Exploration/project3.html#key-findings",
+    "title": "Exploration Project 3",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nfinding one\nfinding two\nfinding three",
+    "crumbs": [
+      "Exploration",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#next-step",
+    "href": "Cleansing_Exploration/project3.html#next-step",
+    "title": "Exploration Project 3",
+    "section": "Next Step",
+    "text": "Next Step\nExplain what the analysis suggests should happen next.",
+    "crumbs": [
+      "Exploration",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Exploration Project 1",
+    "section": "",
+    "text": "Write 2 to 4 sentences describing the question, the data, and the main insight.",
+    "crumbs": [
+      "Exploration",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#project-summary",
+    "href": "Cleansing_Exploration/project1.html#project-summary",
+    "title": "Exploration Project 1",
+    "section": "",
+    "text": "Write 2 to 4 sentences describing the question, the data, and the main insight.",
+    "crumbs": [
+      "Exploration",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#question",
+    "href": "Cleansing_Exploration/project1.html#question",
+    "title": "Exploration Project 1",
+    "section": "Question",
+    "text": "Question\nState the question or hypothesis that guided the analysis.",
+    "crumbs": [
+      "Exploration",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#data-overview",
+    "href": "Cleansing_Exploration/project1.html#data-overview",
+    "title": "Exploration Project 1",
+    "section": "Data Overview",
+    "text": "Data Overview\nDescribe the source, scale, and important variables.",
+    "crumbs": [
+      "Exploration",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#exploration-process",
+    "href": "Cleansing_Exploration/project1.html#exploration-process",
+    "title": "Exploration Project 1",
+    "section": "Exploration Process",
+    "text": "Exploration Process\nSummarize the charts, summaries, or tests that helped you understand the data.",
+    "crumbs": [
+      "Exploration",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#key-findings",
+    "href": "Cleansing_Exploration/project1.html#key-findings",
+    "title": "Exploration Project 1",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nfinding one\nfinding two\nfinding three",
+    "crumbs": [
+      "Exploration",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#next-step",
+    "href": "Cleansing_Exploration/project1.html#next-step",
+    "title": "Exploration Project 1",
+    "section": "Next Step",
+    "text": "Next Step\nExplain what the analysis suggests should happen next.",
+    "crumbs": [
+      "Exploration",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "This section showcases predictive modeling work and the reasoning behind model selection.",
+    "crumbs": [
+      "Machine Learning",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "ml.html#what-i-emphasize",
+    "href": "ml.html#what-i-emphasize",
+    "title": "Machine Learning",
+    "section": "What I Emphasize",
+    "text": "What I Emphasize\n\nclear problem framing\nmeaningful baseline comparisons\nsensible feature choices\nevaluation tied to the real objective",
+    "crumbs": [
+      "Machine Learning",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "ml.html#recommended-page-structure",
+    "href": "ml.html#recommended-page-structure",
+    "title": "Machine Learning",
+    "section": "Recommended Page Structure",
+    "text": "Recommended Page Structure\nFor each project in this section, explain:\n\nthe prediction task\nthe data and features used\nthe models you compared\nthe evaluation metric and final result",
+    "crumbs": [
+      "Machine Learning",
+      "Overview"
+    ]
   },
   {
     "objectID": "Machine_Learning/project3.html",
     "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Machine Learning Project 3",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Write 2 to 4 sentences describing the prediction problem and the result.",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html#project-summary",
+    "href": "Machine_Learning/project3.html#project-summary",
+    "title": "Machine Learning Project 3",
+    "section": "",
+    "text": "Write 2 to 4 sentences describing the prediction problem and the result.",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html#problem-statement",
+    "href": "Machine_Learning/project3.html#problem-statement",
+    "title": "Machine Learning Project 3",
+    "section": "Problem Statement",
+    "text": "Problem Statement\nState what you were trying to predict or classify.",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html#data-and-features",
+    "href": "Machine_Learning/project3.html#data-and-features",
+    "title": "Machine Learning Project 3",
+    "section": "Data and Features",
+    "text": "Data and Features\nDescribe the dataset and the variables that mattered most.",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html#modeling-approach",
+    "href": "Machine_Learning/project3.html#modeling-approach",
+    "title": "Machine Learning Project 3",
+    "section": "Modeling Approach",
+    "text": "Modeling Approach\nList the baseline and candidate models you tried.",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html#evaluation",
+    "href": "Machine_Learning/project3.html#evaluation",
+    "title": "Machine Learning Project 3",
+    "section": "Evaluation",
+    "text": "Evaluation\n\nmetric used\nbest score\nwhy that metric mattered",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html#final-recommendation",
+    "href": "Machine_Learning/project3.html#final-recommendation",
+    "title": "Machine Learning Project 3",
+    "section": "Final Recommendation",
+    "text": "Final Recommendation\nExplain why the selected model was the right choice.",
     "crumbs": [
       "Machine Learning",
       "Project 3"
@@ -86,170 +585,690 @@
   {
     "objectID": "Machine_Learning/project1.html",
     "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Machine Learning Project 1",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Write 2 to 4 sentences describing the prediction problem and the result.",
     "crumbs": [
       "Machine Learning",
       "Project 1"
     ]
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
+    "objectID": "Machine_Learning/project1.html#project-summary",
+    "href": "Machine_Learning/project1.html#project-summary",
+    "title": "Machine Learning Project 1",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Write 2 to 4 sentences describing the prediction problem and the result.",
     "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
+      "Machine Learning",
       "Project 1"
     ]
   },
   {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "objectID": "Machine_Learning/project1.html#problem-statement",
+    "href": "Machine_Learning/project1.html#problem-statement",
+    "title": "Machine Learning Project 1",
+    "section": "Problem Statement",
+    "text": "Problem Statement\nState what you were trying to predict or classify.",
     "crumbs": [
-      "Competitions",
-      "Competition"
+      "Machine Learning",
+      "Project 1"
     ]
   },
   {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "objectID": "Machine_Learning/project1.html#data-and-features",
+    "href": "Machine_Learning/project1.html#data-and-features",
+    "title": "Machine Learning Project 1",
+    "section": "Data and Features",
+    "text": "Data and Features\nDescribe the dataset and the variables that mattered most.",
     "crumbs": [
-      "Competitions",
-      "Competition"
+      "Machine Learning",
+      "Project 1"
     ]
   },
   {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "objectID": "Machine_Learning/project1.html#modeling-approach",
+    "href": "Machine_Learning/project1.html#modeling-approach",
+    "title": "Machine Learning Project 1",
+    "section": "Modeling Approach",
+    "text": "Modeling Approach\nList the baseline and candidate models you tried.",
     "crumbs": [
-      "Competitions",
-      "Project 2"
+      "Machine Learning",
+      "Project 1"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "objectID": "Machine_Learning/project1.html#evaluation",
+    "href": "Machine_Learning/project1.html#evaluation",
+    "title": "Machine Learning Project 1",
+    "section": "Evaluation",
+    "text": "Evaluation\n\nmetric used\nbest score\nwhy that metric mattered",
     "crumbs": [
-      "Data Cleansing",
+      "Machine Learning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html#final-recommendation",
+    "href": "Machine_Learning/project1.html#final-recommendation",
+    "title": "Machine Learning Project 1",
+    "section": "Final Recommendation",
+    "text": "Final Recommendation\nExplain why the selected model was the right choice.",
+    "crumbs": [
+      "Machine Learning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Computer science student with experience building software projects and growing a foundation in analytics, data workflows, and technical problem solving.\n\n\n\nEmail: seitzhandias@gmail.com\nGitHub: github.com/askette828\nLocation: Rexburg, Idaho\n\n\n\n\nI enjoy solving practical problems with code. My work often starts with understanding the system clearly, continues through implementation and iteration, and ends with a deliverable that is easier for other people to use, understand, or build on.\n\n\n\n\nLanguages: Kotlin, Swift, Rust, C#, C\nTools: Git, GitHub, Quarto, VS Code\nStrengths: problem solving, software development, technical learning\n\n\n\n\n\n\n\nDegree: Computer Science\nLocation: Rexburg, Idaho\nExpected graduation: Add date here\nRelevant coursework: programming, software development, algorithms, systems\n\n\n\n\n\n\n\nStart Date - End Date\n\nDescribe the problem you solved.\nDescribe the tools or methods you used.\nDescribe the measurable outcome or impact.\n\n\n\n\nStart Date - End Date\n\nFocus on decisions, ownership, and results.\nUse action verbs and keep each bullet specific.\n\n\n\n\n\n\n\n\nOne sentence on the problem and why it mattered.\nOne sentence on the data, methods, or system you built.\nOne sentence on the outcome, insight, or deliverable.\n\n\n\n\n\nOne sentence on scope.\nOne sentence on your technical contribution.\nOne sentence on what improved because of the project.\n\n\n\n\n\n\nAdd clubs, mentoring, volunteer work, or team leadership here.\n\n\n\n\n\nAdd any certifications, scholarships, or recognitions here."
+  },
+  {
+    "objectID": "resume.html#contact",
+    "href": "resume.html#contact",
+    "title": "Resume",
+    "section": "",
+    "text": "Email: seitzhandias@gmail.com\nGitHub: github.com/askette828\nLocation: Rexburg, Idaho"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Resume",
+    "section": "",
+    "text": "I enjoy solving practical problems with code. My work often starts with understanding the system clearly, continues through implementation and iteration, and ends with a deliverable that is easier for other people to use, understand, or build on."
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Languages: Kotlin, Swift, Rust, C#, C\nTools: Git, GitHub, Quarto, VS Code\nStrengths: problem solving, software development, technical learning"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "Degree: Computer Science\nLocation: Rexburg, Idaho\nExpected graduation: Add date here\nRelevant coursework: programming, software development, algorithms, systems"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Start Date - End Date\n\nDescribe the problem you solved.\nDescribe the tools or methods you used.\nDescribe the measurable outcome or impact.\n\n\n\n\nStart Date - End Date\n\nFocus on decisions, ownership, and results.\nUse action verbs and keep each bullet specific."
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Resume",
+    "section": "",
+    "text": "One sentence on the problem and why it mattered.\nOne sentence on the data, methods, or system you built.\nOne sentence on the outcome, insight, or deliverable.\n\n\n\n\n\nOne sentence on scope.\nOne sentence on your technical contribution.\nOne sentence on what improved because of the project."
+  },
+  {
+    "objectID": "resume.html#leadership-and-service",
+    "href": "resume.html#leadership-and-service",
+    "title": "Resume",
+    "section": "",
+    "text": "Add clubs, mentoring, volunteer work, or team leadership here."
+  },
+  {
+    "objectID": "resume.html#certifications-or-awards",
+    "href": "resume.html#certifications-or-awards",
+    "title": "Resume",
+    "section": "",
+    "text": "Add any certifications, scholarships, or recognitions here."
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Storytelling Project 3",
+    "section": "",
+    "text": "Write 2 to 4 sentences explaining the story, the audience, and the takeaway.",
+    "crumbs": [
+      "Storytelling",
       "Project 3"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "Story_Telling/project3.html#project-summary",
+    "href": "Story_Telling/project3.html#project-summary",
+    "title": "Storytelling Project 3",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Write 2 to 4 sentences explaining the story, the audience, and the takeaway.",
     "crumbs": [
-      "Data Cleansing",
+      "Storytelling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html#audience",
+    "href": "Story_Telling/project3.html#audience",
+    "title": "Storytelling Project 3",
+    "section": "Audience",
+    "text": "Audience\nWho was this project built for?",
+    "crumbs": [
+      "Storytelling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html#core-message",
+    "href": "Story_Telling/project3.html#core-message",
+    "title": "Storytelling Project 3",
+    "section": "Core Message",
+    "text": "Core Message\nWhat is the single most important thing the audience should remember?",
+    "crumbs": [
+      "Storytelling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html#communication-choices",
+    "href": "Story_Telling/project3.html#communication-choices",
+    "title": "Storytelling Project 3",
+    "section": "Communication Choices",
+    "text": "Communication Choices\nDescribe how you used charts, layout, labels, or narrative to make the insight clear.",
+    "crumbs": [
+      "Storytelling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html#outcome",
+    "href": "Story_Telling/project3.html#outcome",
+    "title": "Storytelling Project 3",
+    "section": "Outcome",
+    "text": "Outcome\nExplain what decision or action this story supported.",
+    "crumbs": [
+      "Storytelling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Storytelling Project 1",
+    "section": "",
+    "text": "Write 2 to 4 sentences explaining the story, the audience, and the takeaway.",
+    "crumbs": [
+      "Storytelling",
       "Project 1"
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "Story_Telling/project1.html#project-summary",
+    "href": "Story_Telling/project1.html#project-summary",
+    "title": "Storytelling Project 1",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Write 2 to 4 sentences explaining the story, the audience, and the takeaway.",
     "crumbs": [
-      "Data Exploration",
+      "Storytelling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html#audience",
+    "href": "Story_Telling/project1.html#audience",
+    "title": "Storytelling Project 1",
+    "section": "Audience",
+    "text": "Audience\nWho was this project built for?",
+    "crumbs": [
+      "Storytelling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html#core-message",
+    "href": "Story_Telling/project1.html#core-message",
+    "title": "Storytelling Project 1",
+    "section": "Core Message",
+    "text": "Core Message\nWhat is the single most important thing the audience should remember?",
+    "crumbs": [
+      "Storytelling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html#communication-choices",
+    "href": "Story_Telling/project1.html#communication-choices",
+    "title": "Storytelling Project 1",
+    "section": "Communication Choices",
+    "text": "Communication Choices\nDescribe how you used charts, layout, labels, or narrative to make the insight clear.",
+    "crumbs": [
+      "Storytelling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html#outcome",
+    "href": "Story_Telling/project1.html#outcome",
+    "title": "Storytelling Project 1",
+    "section": "Outcome",
+    "text": "Outcome\nExplain what decision or action this story supported.",
+    "crumbs": [
+      "Storytelling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Storytelling Project 2",
+    "section": "",
+    "text": "Write 2 to 4 sentences explaining the story, the audience, and the takeaway.",
+    "crumbs": [
+      "Storytelling",
       "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html#project-summary",
+    "href": "Story_Telling/project2.html#project-summary",
+    "title": "Storytelling Project 2",
+    "section": "",
+    "text": "Write 2 to 4 sentences explaining the story, the audience, and the takeaway.",
+    "crumbs": [
+      "Storytelling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html#audience",
+    "href": "Story_Telling/project2.html#audience",
+    "title": "Storytelling Project 2",
+    "section": "Audience",
+    "text": "Audience\nWho was this project built for?",
+    "crumbs": [
+      "Storytelling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html#core-message",
+    "href": "Story_Telling/project2.html#core-message",
+    "title": "Storytelling Project 2",
+    "section": "Core Message",
+    "text": "Core Message\nWhat is the single most important thing the audience should remember?",
+    "crumbs": [
+      "Storytelling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html#communication-choices",
+    "href": "Story_Telling/project2.html#communication-choices",
+    "title": "Storytelling Project 2",
+    "section": "Communication Choices",
+    "text": "Communication Choices\nDescribe how you used charts, layout, labels, or narrative to make the insight clear.",
+    "crumbs": [
+      "Storytelling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html#outcome",
+    "href": "Story_Telling/project2.html#outcome",
+    "title": "Storytelling Project 2",
+    "section": "Outcome",
+    "text": "Outcome\nExplain what decision or action this story supported.",
+    "crumbs": [
+      "Storytelling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "Data Exploration",
+    "section": "",
+    "text": "This section is for projects where exploratory analysis helped uncover structure in the data and guide next steps.",
+    "crumbs": [
+      "Exploration",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "exploration.html#what-i-emphasize",
+    "href": "exploration.html#what-i-emphasize",
+    "title": "Data Exploration",
+    "section": "What I Emphasize",
+    "text": "What I Emphasize\n\nunderstanding distributions and relationships\nidentifying surprising trends or outliers\nusing visualizations to sharpen the analysis\nturning observations into better questions",
+    "crumbs": [
+      "Exploration",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "exploration.html#recommended-page-structure",
+    "href": "exploration.html#recommended-page-structure",
+    "title": "Data Exploration",
+    "section": "Recommended Page Structure",
+    "text": "Recommended Page Structure\nFor each project in this section, explain:\n\nthe question you started with\nthe main patterns you discovered\nthe plots or summaries that mattered most\nwhat those findings suggested to do next",
+    "crumbs": [
+      "Exploration",
+      "Overview"
     ]
   },
   {
     "objectID": "cleansing.html",
     "href": "cleansing.html",
-    "title": "about me",
+    "title": "Data Cleaning",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "This section highlights projects where the main challenge was improving data quality before analysis or modeling.",
     "crumbs": [
-      "Data Cleansing"
+      "Data Cleaning",
+      "Overview"
     ]
   },
   {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "objectID": "cleansing.html#what-i-emphasize",
+    "href": "cleansing.html#what-i-emphasize",
+    "title": "Data Cleaning",
+    "section": "What I Emphasize",
+    "text": "What I Emphasize\n\nhandling missing or inconsistent values\nstandardizing formats and categories\nvalidating assumptions with checks\ndocumenting each transformation clearly",
     "crumbs": [
-      "Data Cleansing"
+      "Data Cleaning",
+      "Overview"
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "objectID": "cleansing.html#recommended-page-structure",
+    "href": "cleansing.html#recommended-page-structure",
+    "title": "Data Cleaning",
+    "section": "Recommended Page Structure",
+    "text": "Recommended Page Structure\nFor each project in this section, explain:\n\nwhat was wrong with the original data\nhow you cleaned or reshaped it\nhow you verified the cleaned result\nwhy the cleaned data was better for downstream work",
     "crumbs": [
-      "Data Exploration",
-      "Project 1"
+      "Data Cleaning",
+      "Overview"
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Machine Learning Project 2",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Write 2 to 4 sentences describing the prediction problem and the result.",
     "crumbs": [
-      "Data Exploration",
-      "Project 3"
+      "Machine Learning",
+      "Project 2"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "Machine_Learning/project2.html#project-summary",
+    "href": "Machine_Learning/project2.html#project-summary",
+    "title": "Machine Learning Project 2",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Write 2 to 4 sentences describing the prediction problem and the result.",
     "crumbs": [
-      "Data Cleansing",
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project2.html#problem-statement",
+    "href": "Machine_Learning/project2.html#problem-statement",
+    "title": "Machine Learning Project 2",
+    "section": "Problem Statement",
+    "text": "Problem Statement\nState what you were trying to predict or classify.",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project2.html#data-and-features",
+    "href": "Machine_Learning/project2.html#data-and-features",
+    "title": "Machine Learning Project 2",
+    "section": "Data and Features",
+    "text": "Data and Features\nDescribe the dataset and the variables that mattered most.",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project2.html#modeling-approach",
+    "href": "Machine_Learning/project2.html#modeling-approach",
+    "title": "Machine Learning Project 2",
+    "section": "Modeling Approach",
+    "text": "Modeling Approach\nList the baseline and candidate models you tried.",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project2.html#evaluation",
+    "href": "Machine_Learning/project2.html#evaluation",
+    "title": "Machine Learning Project 2",
+    "section": "Evaluation",
+    "text": "Evaluation\n\nmetric used\nbest score\nwhy that metric mattered",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project2.html#final-recommendation",
+    "href": "Machine_Learning/project2.html#final-recommendation",
+    "title": "Machine Learning Project 2",
+    "section": "Final Recommendation",
+    "text": "Final Recommendation\nExplain why the selected model was the right choice.",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Science Portfolio",
+    "section": "",
+    "text": "I am Dias Doktyrbek, a computer science student building projects that combine clean data work, thoughtful analysis, and clear communication.\nThis portfolio is designed to show how I approach a project from start to finish:\n\ndefine the question clearly\nclean and validate the data\nexplore patterns and test ideas\ncommunicate insights for real people\nbuild practical tools when a project needs an application layer"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Data Science Portfolio",
+    "section": "",
+    "text": "I am Dias Doktyrbek, a computer science student building projects that combine clean data work, thoughtful analysis, and clear communication.\nThis portfolio is designed to show how I approach a project from start to finish:\n\ndefine the question clearly\nclean and validate the data\nexplore patterns and test ideas\ncommunicate insights for real people\nbuild practical tools when a project needs an application layer"
+  },
+  {
+    "objectID": "index.html#what-you-will-find-here",
+    "href": "index.html#what-you-will-find-here",
+    "title": "Data Science Portfolio",
+    "section": "What You Will Find Here",
+    "text": "What You Will Find Here\n\nResume\nMy background, technical skills, coursework, and experience.\n\n\nData Cleaning\nProjects focused on wrangling raw data into trustworthy analysis-ready datasets.\n\n\nExploration\nProjects centered on descriptive analysis, pattern finding, and hypothesis-driven investigation.\n\n\nStorytelling\nProjects where the main goal is turning analysis into clear visual and written communication.\n\n\nMachine Learning\nProjects that compare models, evaluate performance, and explain why the final approach was selected.\n\n\nFull Stack\nProjects that combine data work with interfaces, automation, APIs, or deployment.\n\n\nCompetitions\nSelected challenge-based work that highlights iteration, experimentation, and measurable results."
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Data Science Portfolio",
+    "section": "Current Focus",
+    "text": "Current Focus\n\nstrengthening end-to-end project documentation\nbuilding projects across systems programming and app development\nconnecting technical work to practical software problems"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Data Science Portfolio",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: seitzhandias@gmail.com\nGitHub: github.com/askette828"
+  },
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "Data Storytelling",
+    "section": "",
+    "text": "This section is for work where the final product was a narrative, dashboard, presentation, or visual explanation.",
+    "crumbs": [
+      "Storytelling",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#what-i-emphasize",
+    "href": "story_telling.html#what-i-emphasize",
+    "title": "Data Storytelling",
+    "section": "What I Emphasize",
+    "text": "What I Emphasize\n\naudience-focused communication\nsimple visuals with clear takeaways\nconnecting charts to decisions\nbalancing accuracy with clarity",
+    "crumbs": [
+      "Storytelling",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#recommended-page-structure",
+    "href": "story_telling.html#recommended-page-structure",
+    "title": "Data Storytelling",
+    "section": "Recommended Page Structure",
+    "text": "Recommended Page Structure\nFor each project in this section, explain:\n\nwho the audience was\nwhat decision or insight mattered most\nhow you chose visuals or narrative structure\nwhat action the audience could take afterward",
+    "crumbs": [
+      "Storytelling",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Exploration Project 2",
+    "section": "",
+    "text": "Write 2 to 4 sentences describing the question, the data, and the main insight.",
+    "crumbs": [
+      "Exploration",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html#project-summary",
+    "href": "Cleansing_Exploration/project2.html#project-summary",
+    "title": "Exploration Project 2",
+    "section": "",
+    "text": "Write 2 to 4 sentences describing the question, the data, and the main insight.",
+    "crumbs": [
+      "Exploration",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html#question",
+    "href": "Cleansing_Exploration/project2.html#question",
+    "title": "Exploration Project 2",
+    "section": "Question",
+    "text": "Question\nState the question or hypothesis that guided the analysis.",
+    "crumbs": [
+      "Exploration",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html#data-overview",
+    "href": "Cleansing_Exploration/project2.html#data-overview",
+    "title": "Exploration Project 2",
+    "section": "Data Overview",
+    "text": "Data Overview\nDescribe the source, scale, and important variables.",
+    "crumbs": [
+      "Exploration",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html#exploration-process",
+    "href": "Cleansing_Exploration/project2.html#exploration-process",
+    "title": "Exploration Project 2",
+    "section": "Exploration Process",
+    "text": "Exploration Process\nSummarize the charts, summaries, or tests that helped you understand the data.",
+    "crumbs": [
+      "Exploration",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html#key-findings",
+    "href": "Cleansing_Exploration/project2.html#key-findings",
+    "title": "Exploration Project 2",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nfinding one\nfinding two\nfinding three",
+    "crumbs": [
+      "Exploration",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html#next-step",
+    "href": "Cleansing_Exploration/project2.html#next-step",
+    "title": "Exploration Project 2",
+    "section": "Next Step",
+    "text": "Next Step\nExplain what the analysis suggests should happen next.",
+    "crumbs": [
+      "Exploration",
       "Project 2"
     ]
   },
   {
     "objectID": "Competition/project1.html",
     "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Competition Project 1",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Write 2 to 4 sentences describing the competition goal and your best result.",
+    "crumbs": [
+      "Competitions",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html#project-summary",
+    "href": "Competition/project1.html#project-summary",
+    "title": "Competition Project 1",
+    "section": "",
+    "text": "Write 2 to 4 sentences describing the competition goal and your best result.",
+    "crumbs": [
+      "Competitions",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html#competition-objective",
+    "href": "Competition/project1.html#competition-objective",
+    "title": "Competition Project 1",
+    "section": "Competition Objective",
+    "text": "Competition Objective\nWhat metric, target, or ranking mattered?",
+    "crumbs": [
+      "Competitions",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html#baseline",
+    "href": "Competition/project1.html#baseline",
+    "title": "Competition Project 1",
+    "section": "Baseline",
+    "text": "Baseline\nExplain the first solution you built before optimization.",
+    "crumbs": [
+      "Competitions",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html#experiments",
+    "href": "Competition/project1.html#experiments",
+    "title": "Competition Project 1",
+    "section": "Experiments",
+    "text": "Experiments\n\nexperiment one\nexperiment two\nexperiment three",
+    "crumbs": [
+      "Competitions",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html#final-result",
+    "href": "Competition/project1.html#final-result",
+    "title": "Competition Project 1",
+    "section": "Final Result",
+    "text": "Final Result\nShare your best score, ranking, or main lesson learned.",
     "crumbs": [
       "Competitions",
       "Project 1"
@@ -258,110 +1277,243 @@
   {
     "objectID": "Competition/project3.html",
     "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Competition Project 3",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Write 2 to 4 sentences describing the competition goal and your best result.",
     "crumbs": [
       "Competitions",
       "Project 3"
     ]
   },
   {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
+    "objectID": "Competition/project3.html#project-summary",
+    "href": "Competition/project3.html#project-summary",
+    "title": "Competition Project 3",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Write 2 to 4 sentences describing the competition goal and your best result.",
     "crumbs": [
-      "Data Exploration"
+      "Competitions",
+      "Project 3"
     ]
   },
   {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "objectID": "Competition/project3.html#competition-objective",
+    "href": "Competition/project3.html#competition-objective",
+    "title": "Competition Project 3",
+    "section": "Competition Objective",
+    "text": "Competition Objective\nWhat metric, target, or ranking mattered?",
     "crumbs": [
-      "Data Exploration"
+      "Competitions",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html#baseline",
+    "href": "Competition/project3.html#baseline",
+    "title": "Competition Project 3",
+    "section": "Baseline",
+    "text": "Baseline\nExplain the first solution you built before optimization.",
+    "crumbs": [
+      "Competitions",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html#experiments",
+    "href": "Competition/project3.html#experiments",
+    "title": "Competition Project 3",
+    "section": "Experiments",
+    "text": "Experiments\n\nexperiment one\nexperiment two\nexperiment three",
+    "crumbs": [
+      "Competitions",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html#final-result",
+    "href": "Competition/project3.html#final-result",
+    "title": "Competition Project 3",
+    "section": "Final Result",
+    "text": "Final Result\nShare your best score, ranking, or main lesson learned.",
+    "crumbs": [
+      "Competitions",
+      "Project 3"
     ]
   },
   {
     "objectID": "Full_Stack/project2.html",
     "href": "Full_Stack/project2.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Full Stack Project 2",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Write 2 to 4 sentences describing the product, users, and technical scope.",
     "crumbs": [
       "Full Stack",
       "Project 2"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
+    "objectID": "Full_Stack/project2.html#project-summary",
+    "href": "Full_Stack/project2.html#project-summary",
+    "title": "Full Stack Project 2",
     "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Write 2 to 4 sentences describing the product, users, and technical scope.",
     "crumbs": [
-      "Machine Learning",
+      "Full Stack",
       "Project 2"
     ]
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "objectID": "Full_Stack/project2.html#product-goal",
+    "href": "Full_Stack/project2.html#product-goal",
+    "title": "Full Stack Project 2",
+    "section": "Product Goal",
+    "text": "Product Goal\nWhat problem did the app or system solve?",
     "crumbs": [
-      "Machine Learning"
+      "Full Stack",
+      "Project 2"
     ]
   },
   {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "objectID": "Full_Stack/project2.html#stack",
+    "href": "Full_Stack/project2.html#stack",
+    "title": "Full Stack Project 2",
+    "section": "Stack",
+    "text": "Stack\n\nfrontend\nbackend\ndata layer\ndeployment",
     "crumbs": [
-      "Machine Learning"
+      "Full Stack",
+      "Project 2"
     ]
   },
   {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "objectID": "Full_Stack/project2.html#key-build-decisions",
+    "href": "Full_Stack/project2.html#key-build-decisions",
+    "title": "Full Stack Project 2",
+    "section": "Key Build Decisions",
+    "text": "Key Build Decisions\nDescribe the most important implementation choices and tradeoffs.",
     "crumbs": [
-      "Story Telling",
-      "Project 1"
+      "Full Stack",
+      "Project 2"
     ]
   },
   {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "objectID": "Full_Stack/project2.html#result",
+    "href": "Full_Stack/project2.html#result",
+    "title": "Full Stack Project 2",
+    "section": "Result",
+    "text": "Result\nExplain what the finished system allows users to do.",
     "crumbs": [
-      "Story Telling",
-      "Project 3"
+      "Full Stack",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Data Cleaning Project 2",
+    "section": "",
+    "text": "Write 2 to 4 sentences explaining the problem, the dataset, and the outcome.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html#project-summary",
+    "href": "Cleansing_Projects/project2.html#project-summary",
+    "title": "Data Cleaning Project 2",
+    "section": "",
+    "text": "Write 2 to 4 sentences explaining the problem, the dataset, and the outcome.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html#business-or-project-context",
+    "href": "Cleansing_Projects/project2.html#business-or-project-context",
+    "title": "Data Cleaning Project 2",
+    "section": "Business or Project Context",
+    "text": "Business or Project Context\n\nWhat was the real question?\nWho cared about the result?\nWhy did the data need cleaning?",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html#data-issues",
+    "href": "Cleansing_Projects/project2.html#data-issues",
+    "title": "Data Cleaning Project 2",
+    "section": "Data Issues",
+    "text": "Data Issues\n\nmissing values\ninconsistent labels\nduplicate records\nformatting problems",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html#cleaning-approach",
+    "href": "Cleansing_Projects/project2.html#cleaning-approach",
+    "title": "Data Cleaning Project 2",
+    "section": "Cleaning Approach",
+    "text": "Cleaning Approach\nDescribe the exact steps you used to improve the data.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html#validation",
+    "href": "Cleansing_Projects/project2.html#validation",
+    "title": "Data Cleaning Project 2",
+    "section": "Validation",
+    "text": "Validation\nExplain how you checked that the cleaned data was accurate and usable.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html#deliverable",
+    "href": "Cleansing_Projects/project2.html#deliverable",
+    "title": "Data Cleaning Project 2",
+    "section": "Deliverable",
+    "text": "Deliverable\nState what analysis, dataset, or report became possible after cleaning.",
+    "crumbs": [
+      "Data Cleaning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "Full Stack",
+    "section": "",
+    "text": "This section is for projects where analysis, automation, interfaces, APIs, or deployment all come together.",
+    "crumbs": [
+      "Full Stack",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#what-i-emphasize",
+    "href": "full_stack.html#what-i-emphasize",
+    "title": "Full Stack",
+    "section": "What I Emphasize",
+    "text": "What I Emphasize\n\ndesigning useful workflows for real users\nconnecting backend logic to a front-end experience\nkeeping code organized and maintainable\nexplaining the tradeoffs behind implementation choices",
+    "crumbs": [
+      "Full Stack",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#recommended-page-structure",
+    "href": "full_stack.html#recommended-page-structure",
+    "title": "Full Stack",
+    "section": "Recommended Page Structure",
+    "text": "Recommended Page Structure\nFor each project in this section, explain:\n\nwhat the application or system does\nthe stack you used\nthe most important implementation challenge\nhow the final product improved the workflow",
+    "crumbs": [
+      "Full Stack",
+      "Overview"
     ]
   }
 ]

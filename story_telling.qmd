@@ -1,10 +1,22 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Data Storytelling"
+subtitle: "Communicating analysis so decisions become easier"
 ---
 
-# Title 1 Header
-## Title 2 Header
+This section is for work where the final product was a narrative, dashboard, presentation, or visual explanation.
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## What I Emphasize
+
+- audience-focused communication
+- simple visuals with clear takeaways
+- connecting charts to decisions
+- balancing accuracy with clarity
+
+## Recommended Page Structure
+
+For each project in this section, explain:
+
+1. who the audience was
+2. what decision or insight mattered most
+3. how you chose visuals or narrative structure
+4. what action the audience could take afterward

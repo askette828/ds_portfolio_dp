@@ -1,10 +1,22 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Data Exploration"
+subtitle: "Finding patterns, anomalies, and questions worth pursuing"
 ---
 
-# Title 1 Header
-## Title 2 Header
+This section is for projects where exploratory analysis helped uncover structure in the data and guide next steps.
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## What I Emphasize
+
+- understanding distributions and relationships
+- identifying surprising trends or outliers
+- using visualizations to sharpen the analysis
+- turning observations into better questions
+
+## Recommended Page Structure
+
+For each project in this section, explain:
+
+1. the question you started with
+2. the main patterns you discovered
+3. the plots or summaries that mattered most
+4. what those findings suggested to do next

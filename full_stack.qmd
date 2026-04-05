@@ -1,10 +1,22 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Full Stack"
+subtitle: "Projects that connect data work to usable software"
 ---
 
-# Title 1 Header
-## Title 2 Header
+This section is for projects where analysis, automation, interfaces, APIs, or deployment all come together.
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## What I Emphasize
+
+- designing useful workflows for real users
+- connecting backend logic to a front-end experience
+- keeping code organized and maintainable
+- explaining the tradeoffs behind implementation choices
+
+## Recommended Page Structure
+
+For each project in this section, explain:
+
+1. what the application or system does
+2. the stack you used
+3. the most important implementation challenge
+4. how the final product improved the workflow

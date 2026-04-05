@@ -1,10 +1,57 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Data Science Portfolio"
+subtitle: "Analytics, machine learning, and product-minded problem solving"
 ---
 
-# Title 1 Header
-## Title 2 Header
+## Hello
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+I am **Dias Doktyrbek**, a computer science student building projects that combine clean data work, thoughtful analysis, and clear communication.
+
+This portfolio is designed to show how I approach a project from start to finish:
+
+- define the question clearly
+- clean and validate the data
+- explore patterns and test ideas
+- communicate insights for real people
+- build practical tools when a project needs an application layer
+
+## What You Will Find Here
+
+### Resume
+
+My background, technical skills, coursework, and experience.
+
+### Data Cleaning
+
+Projects focused on wrangling raw data into trustworthy analysis-ready datasets.
+
+### Exploration
+
+Projects centered on descriptive analysis, pattern finding, and hypothesis-driven investigation.
+
+### Storytelling
+
+Projects where the main goal is turning analysis into clear visual and written communication.
+
+### Machine Learning
+
+Projects that compare models, evaluate performance, and explain why the final approach was selected.
+
+### Full Stack
+
+Projects that combine data work with interfaces, automation, APIs, or deployment.
+
+### Competitions
+
+Selected challenge-based work that highlights iteration, experimentation, and measurable results.
+
+## Current Focus
+
+- strengthening end-to-end project documentation
+- building projects across systems programming and app development
+- connecting technical work to practical software problems
+
+## Contact
+
+- Email: `seitzhandias@gmail.com`
+- GitHub: [github.com/askette828](https://github.com/askette828)
